@@ -216,16 +216,6 @@ python -m app.agent.graph
 
 ---
 
-## 🗺️ Roadmap (Ideas)
-
-- [ ] Streaming agent responses
-- [ ] Background email summarization digest
-- [ ] Draft + smart-reply suggestions
-- [ ] Webhooks for new email events
-- [ ] Deploy to Docker / cloud
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License** — feel free to use it in your own projects.
