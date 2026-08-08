@@ -1,0 +1,12 @@
+google-api-python-client==2.198.0
+google-auth==2.56.2
+google-auth-httplib2==0.4.0
+google-auth-oauthlib==1.4.0
+python-dotenv==1.2.2
+pydantic
+fastapi
+uvicorn
+pydantic[email]
+langchain-core
+langgraph
+langchain-google-genai
